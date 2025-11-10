@@ -62,4 +62,15 @@ La tienda presenta una **calificación promedio de 4.01 estrellas** sobre 5, lo 
 La mayoría de las evaluaciones se concentran entre 4 y 5 estrellas, reflejando experiencias positivas tanto con los productos como con el proceso de compra. Este resultado sugiere que la tienda mantiene una **buena reputación y calidad en el servicio**.
 
 
+### Productos Más y Menos Vendidos
+
+Se analizaron los productos según la cantidad de veces que fueron vendidos.
+
+Los **productos más vendidos** representan aquellos con mayor demanda, reflejando las preferencias del cliente.  
+Por otro lado, los **productos menos vendidos** permiten identificar artículos con baja rotación, lo que puede indicar necesidad de promociones, mejoras de catálogo o descontinuación.
+
+Este análisis ayuda a **optimizar inventarios, marketing y estrategia comercial**.
+
+
+
 
