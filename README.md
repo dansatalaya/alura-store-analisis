@@ -71,6 +71,14 @@ Por otro lado, los **productos menos vendidos** permiten identificar artículos 
 
 Este análisis ayuda a **optimizar inventarios, marketing y estrategia comercial**.
 
+##  Conclusión Final
+
+El análisis de ventas, calificaciones, categorías, costos logísticos y rotación de productos indica que **Bogotá** es la tienda ideal para el Sr. Juan.  
+Esta ciudad presenta la mayor facturación, alta demanda por productos electrónicos, buena satisfacción del cliente y costos de envío competitivos.
+
+Por estas razones, **se recomienda que el Sr. Juan centre sus ventas en la tienda de Bogotá**, con alta probabilidad de crecimiento y retorno económico.
+
+
 
 
 
