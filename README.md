@@ -78,6 +78,10 @@ Esta ciudad presenta la mayor facturación, alta demanda por productos electrón
 
 Por estas razones, **se recomienda que el Sr. Juan centre sus ventas en la tienda de Bogotá**, con alta probabilidad de crecimiento y retorno económico.
 
+**Autor:** Dan Satalaya  
+**Rol:** Analista de Datos  
+
+
 
 
 
