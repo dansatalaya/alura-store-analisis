@@ -1,4 +1,4 @@
-# alura-store-analisis
+
 # alura-store-analisis
 
 ###  Análisis de Facturación
@@ -42,4 +42,17 @@ Este resultado lo posiciona como el **vendedor más rentable** dentro del perío
 
 El análisis revela una **alta demanda en productos electrónicos y electrodomésticos**, principalmente en **ciudades grandes**.  
 Además, existe una clara **diferencia en desempeño entre vendedores**, lo que abre oportunidad para estrategias de incentivos y capacitación.
+
+---
+
+###  Ventas por Ciudad
+
+Se analizaron las ventas agrupadas por ciudad para identificar los mercados con mayor actividad comercial.
+
+- **Bogotá** presenta la mayor facturación, consolidándose como el principal mercado de ventas.  
+- Le siguen **Medellín** y **Cali**, lo que indica una concentración de compras en grandes centros urbanos.  
+- Las demás ciudades muestran volúmenes significativamente menores.
+
+Este análisis ayuda a decidir dónde invertir en publicidad, logística y presencia comercial.
+
 
