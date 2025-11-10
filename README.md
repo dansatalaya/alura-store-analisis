@@ -55,4 +55,11 @@ Se analizaron las ventas agrupadas por ciudad para identificar los mercados con 
 
 Este análisis ayuda a decidir dónde invertir en publicidad, logística y presencia comercial.
 
+###  Calificación Promedio de la Tienda
+
+La tienda presenta una **calificación promedio de 4.01 estrellas** sobre 5, lo cual indica un **alto nivel de satisfacción por parte de los clientes**.
+
+La mayoría de las evaluaciones se concentran entre 4 y 5 estrellas, reflejando experiencias positivas tanto con los productos como con el proceso de compra. Este resultado sugiere que la tienda mantiene una **buena reputación y calidad en el servicio**.
+
+
 
