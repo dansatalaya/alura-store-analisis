@@ -78,6 +78,8 @@ Esta ciudad presenta la mayor facturación, alta demanda por productos electrón
 
 Por estas razones, **se recomienda que el Sr. Juan centre sus ventas en la tienda de Bogotá**, con alta probabilidad de crecimiento y retorno económico.
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dansatalaya/alura-store-analisis/blob/main/AluraStoreLatam.ipynb)
+
 **Autor:** Dan Satalaya  
 **Rol:** Analista de Datos  
 
